@@ -1,0 +1,3 @@
+setContextFilter=com.asiabill.framework.dubbo.filter.SetContextFilter
+contextFilter=com.asiabill.framework.dubbo.filter.ContextFilter
+exceptionFilter=com.asiabill.framework.dubbo.filter.ExceptionFilter

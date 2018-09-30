@@ -1,0 +1,2 @@
+logbackContainer=com.asiabill.framework.dubbo.container.AsiabillLogbackContainer
+reportStatusContainer=com.asiabill.framework.dubbo.container.AsiabillReportStatusContainer

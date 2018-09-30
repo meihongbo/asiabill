@@ -1,0 +1,1 @@
+cachedThreadPool=com.asiabill.framework.dubbo.threadpool.AsiabillCachedThreadPool

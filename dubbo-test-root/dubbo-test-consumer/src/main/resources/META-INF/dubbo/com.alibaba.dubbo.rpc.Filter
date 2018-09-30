@@ -1,0 +1,2 @@
+consumerThreadFilter=com.asiabill.filter.ConsumerThreadFilter
+providerThreadFilter=com.asiabill.filter.ProviderThreadFilter

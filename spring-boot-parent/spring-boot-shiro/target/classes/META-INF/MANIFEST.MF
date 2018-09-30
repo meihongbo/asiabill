@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-shiro
+Implementation-Version: 1.5.6.RELEASE
+Built-By: meiho
+Specification-Vendor: Pivotal Software, Inc.
+Specification-Title: spring-boot-shiro
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_151
+Specification-Version: 1.5.6.RELEASE
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ shiro/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
