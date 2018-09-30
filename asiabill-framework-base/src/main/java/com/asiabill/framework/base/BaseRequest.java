@@ -1,6 +1,6 @@
 package com.asiabill.framework.base;
 
-public class BaseDto extends BaseEntity
+public class BaseRequest extends BaseEntity
 	implements java.io.Serializable {
 	
 	private static final long serialVersionUID = 1L;

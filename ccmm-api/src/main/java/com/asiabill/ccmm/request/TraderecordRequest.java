@@ -1,8 +1,8 @@
-package com.asiabill.ccmm.dto;
+package com.asiabill.ccmm.request;
 
 import java.util.Date;
 
-import com.asiabill.framework.base.BaseDto;
+import com.asiabill.framework.base.BaseRequest;
 
 /**
  * 
@@ -14,7 +14,7 @@ import com.asiabill.framework.base.BaseDto;
  * @date 2018年9月30日 下午5:49:24
  * @version v1.0
  */
-public class TraderecordDto extends BaseDto {
+public class TraderecordRequest extends BaseRequest {
 
 	/**
 	 * 
